@@ -1,4 +1,4 @@
-# Outfitrecommendation-FastAPI
+# Weather-Wardrobe-Pro-FastAPI
 
 
 This is an API for an outfit recommendation service built with the FastAPI framework. It provides endpoints to retrieve outfit recommendations based on various criteria.
